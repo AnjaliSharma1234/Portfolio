@@ -175,7 +175,7 @@ export default class About extends Component {
             <a href="https://github.com/AnjaliSharma1234" className="btn btn--primary full-width">View Projects on Github</a>
           </div>
           <div className="col-six tab-full right">
-            <a href="https://drive.google.com/open?id=1hBqfacvy2izCzEaLmEKP6YJJEgtcxe-A" className="btn full-width">Download my Resume</a>
+            <a href="" className="btn full-width">Download my Resume</a>
           </div>
         </div> {/* end about-content buttons */}  
         
