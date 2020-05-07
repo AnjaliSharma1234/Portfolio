@@ -7,7 +7,7 @@ export default class Works extends Component {
                     <div className="row narrow section-intro has-bottom-sep">
                         <div className="col-full">
                             <h3>Highlights</h3>
-                            <h1>See My Recent Activities.</h1>
+                            <h1>My Recent Activities.</h1>
                             <p className="lead"></p>
                         </div>
                     </div>
