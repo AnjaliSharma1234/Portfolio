@@ -18,7 +18,7 @@ export default class Works extends Component {
                                     <div className="item-folio__thumb">
                                         <a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9lMzU5MDA0L3BvZGNhc3QvcnNz&episode=ODM3Y2UzZGUtM2MwYS00Mzg1LWFjNDMtODU4MDkxYjE5NmEw 
 " className="thumb-link" title="Anjali Sharma Radio Record Podcast - The Power of Self Belief" data-size="1050x700">
-                                            <img src="images/portfolio/beetle.jpg" href= "https://open.spotify.com/episode/1qxy0PH454DyNLMpI2wneU?si=pyBco1pWSVKasiLKJUSPYA#_=_" alt="" />
+                                            <img src="images/portfolio/beetle.jpg" href= "https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9lMzU5MDA0L3BvZGNhc3QvcnNz&episode=ODM3Y2UzZGUtM2MwYS00Mzg1LWFjNDMtODU4MDkxYjE5NmEw" alt="" />
                                             <span className="shadow-overlay" />
                                         </a>
                                     </div>
@@ -42,7 +42,7 @@ export default class Works extends Component {
                                 <div className="item-folio">
                                     <div className="item-folio__thumb">
                                         <a href="https://medium.com/@anjalisharmaaa/my-european-experience-formula-student-germany-2019-796307909959" className="thumb-link" title="My European Experience - Formula Student Germany 2019 and Key Takeaways" data-size="1050x700">
-                                            <img src="images/portfolio/lighthouse.jpg" srcSet="images/portfolio/lighthouse.jpg 1x, images/portfolio/lighthouse@2x.jpg 2x" alt="" />
+                                            <img src="images/portfolio/lighthouse.jpg" href="https://medium.com/@anjalisharmaaa/my-european-experience-formula-student-germany-2019-796307909959" alt="" />
                                             <span className="shadow-overlay" />
                                         </a>
                                     </div>
@@ -66,7 +66,7 @@ export default class Works extends Component {
                                 <div className="item-folio">
                                     <div className="item-folio__thumb">
                                         <a href="https://www.instagram.com/p/BzSchObp0-J/" className="thumb-link" title="Google TSWE Scholar 2019"data-size="1050x700">
-                                            <img src="images/portfolio/salad.jpg" srcSet="images/portfolio/salad.jpg 1x, images/portfolio/salad@2x.jpg 2x" alt="" />
+                                            <img src="images/portfolio/salad.jpg" href="https://www.instagram.com/p/BzSchObp0-J/" alt="" />
                                             <span className="shadow-overlay" />
                                         </a>
                                     </div>
@@ -90,7 +90,7 @@ export default class Works extends Component {
                                 <div className="item-folio">
                                     <div className="item-folio__thumb">
                                         <a href="https://medium.com/@anjalisharmaaa/storytelher-record08-beyond-self-doubt-and-peer-pressure-b669e85c028b" className="thumb-link" title="StorytelHER - Women's History Month 2020 Special" data-size="1050x700">
-                                            <img src="images/portfolio/woodcraft.jpg" srcSet="images/portfolio/woodcraft.jpg 1x, images/portfolio/woodcraft@2x.jpg 2x" alt="" />
+                                            <img src="images/portfolio/woodcraft.jpg" href="https://medium.com/@anjalisharmaaa/storytelher-record08-beyond-self-doubt-and-peer-pressure-b669e85c028b" alt="" />
                                             <span className="shadow-overlay" />
                                         </a>
                                     </div>
@@ -113,8 +113,8 @@ export default class Works extends Component {
                             <div className="masonry__brick">
                                 <div className="item-folio">
                                     <div className="item-folio__thumb">
-                                        <a href="https://fayz.in/stories/s/1582/0/?ckt_id=ZGL1ZGVk&title=five_success_tips_from_Anjali_Sharma" className="thumb-link" data-size="1050x700">
-                                            <img src="images/portfolio/skaterboy.jpg" srcSet="images/portfolio/skaterboy.jpg 1x, images/portfolio/skaterboy@2x.jpg 2x" alt="" />
+                                        <a href="https://fayz.in/stories/s/1582/0/?ckt_id=ZGL1ZGVk&title=five_success_tips_from_Anjali_Sharma" className="thumb-link" title = "Story Featured at Fayz"data-size="1050x700">
+                                            <img src="images/portfolio/skaterboy.jpg" href="https://fayz.in/stories/s/1582/0/?ckt_id=ZGL1ZGVk&title=five_success_tips_from_Anjali_Sharma" alt="" />
                                             <span className="shadow-overlay" />
                                         </a>
                                     </div>
@@ -137,8 +137,8 @@ export default class Works extends Component {
                             <div className="masonry__brick">
                                 <div className="item-folio">
                                     <div className="item-folio__thumb">
-                                        <a href="https://www.instagram.com/thefirst24hours/" className="thumb-link" data-size="1050x700">
-                                            <img src="images/portfolio/liberty.jpg" srcSet="images/portfolio/liberty.jpg 1x, images/portfolio/liberty@2x.jpg 2x" alt="" />
+                                        <a href="https://www.instagram.com/thefirst24hours/" className="thumb-link" title = "The First 24 Hours" data-size="1050x700">
+                                            <img src="images/portfolio/liberty.jpg" href="https://www.instagram.com/thefirst24hours/" alt="" />
                                             <span className="shadow-overlay" />
                                         </a>
                                     </div>
@@ -161,8 +161,8 @@ export default class Works extends Component {
                             <div className="masonry__brick">
                                 <div className="item-folio">
                                     <div className="item-folio__thumb">
-                                        <a href="https://www.facebook.com/photo.php?fbid=177708216212338&set=a.128981367751690&type=3&theater" className="thumb-link" data-size="1050x700">
-                                            <img src="images/portfolio/minimalismo.jpg" srcSet="images/portfolio/minimalismo.jpg 1x, images/portfolio/minimalismo@2x.jpg 2x" alt="" />
+                                        <a href="https://www.facebook.com/photo.php?fbid=177708216212338&set=a.128981367751690&type=3&theater" className="thumb-link" title = "University Rank IV in 2017-18 " data-size="1050x700">
+                                            <img src="images/portfolio/minimalismo.jpg" href="https://www.facebook.com/photo.php?fbid=177708216212338&set=a.128981367751690&type=3&theater" alt="" />
                                             <span className="shadow-overlay" />
                                         </a>
                                     </div>
@@ -183,8 +183,8 @@ export default class Works extends Component {
                             <div className="masonry__brick">
                                 <div className="item-folio">
                                     <div className="item-folio__thumb">
-                                        <a href="https://www.instagram.com/p/B9mUVDShdkI/" className="thumb-link" data-size="1050x700">
-                                            <img src="images/portfolio/shutterbug.jpg" srcSet="images/portfolio/shutterbug.jpg 1x, images/portfolio/shutterbug@2x.jpg 2x" alt="" />
+                                        <a href="https://www.instagram.com/p/B9mUVDShdkI/" className="thumb-link" title="Official Humans of VIT Vellore Feature"data-size="1050x700">
+                                            <img src="images/portfolio/shutterbug.jpg" href="https://www.instagram.com/p/B9mUVDShdkI/" alt="" />
                                             <span className="shadow-overlay" />
                                         </a>
                                     </div>
