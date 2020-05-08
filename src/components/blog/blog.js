@@ -98,7 +98,7 @@ export default class Blog extends Component {
             </div> {/* end blog-list */}
           </div> {/* end col-full */}
           <div>
-                            <a href="https://medium.com/@anjalisharmaaa" className="btn btn--primary full-width">Read more articles on Medium</a>
+                            <a href="https://medium.com/@anjalisharmaaa" className="btn btn--primary full-width">Read more on Medium</a>
                         </div>
         </div> {/* end blog-content */}
         
