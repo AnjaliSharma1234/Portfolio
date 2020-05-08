@@ -17,7 +17,7 @@ export default class Header extends Component {
                             <li><a className="smoothscroll" href="#contact" title="contact">Contact</a></li>
                         </ul>
                     </nav>
-                    <a className="header-menu-toggle" href="#0"><span>Menu</span></a>
+                    {/* <a className="header-menu-toggle" href="#header"><span>Menu</span></a> */}
                 </header> {/* end s-header */}
             </React.Fragment>
         );
