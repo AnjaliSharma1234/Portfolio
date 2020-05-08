@@ -92,7 +92,7 @@ export default class About extends Component {
                             </div> {/* end timeline */}
                         </div> {/* end right */}
                         <div>
-                            <a href="https://www.linkedin.com/in/anjalisharmaaa/" className="btn btn--primary full-width">See Full Work Experince Timeline on LinkedIn</a>
+                            <a href="https://www.linkedin.com/in/anjalisharmaaa/" className="btn btn--primary full-width">See Full Timeline</a>
                         </div>
                     </div> {/* end about-content timeline */}
                     <div className="row about-content">
