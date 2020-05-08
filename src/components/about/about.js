@@ -145,7 +145,7 @@ export default class About extends Component {
             <ul className="skill-bars">
               <li>
                 <div className="progress percent95"><span>95%</span></div>
-                <strong>Web Dev - HTML5, CSS3, Javascript, ReactJS</strong>
+                <strong>HTML5, CSS3, Javascript, ReactJS</strong>
               </li>
               <li>
                 <div className="progress percent90"><span>90%</span></div>
@@ -157,15 +157,15 @@ export default class About extends Component {
               </li>
               <li>
                 <div className="progress percent97"><span>97%</span></div>
-                <strong>REST API, GIT, Google Adwords, GSuite</strong>
+                <strong>GIT, Google Adwords, GSuite</strong>
               </li>
               <li>
                 <div className="progress percent95"><span>95%</span></div>
-                <strong>Time Management, Project Management</strong>
+                <strong>Time & Project Management</strong>
               </li>   
               <li>
                 <div className="progress percent97"><span>97%</span></div>
-                <strong>Public Speaking, Blogging, Community Bonding</strong>
+                <strong>Public Speaking, Blogging</strong>
               </li>   
             </ul>
           </div>
