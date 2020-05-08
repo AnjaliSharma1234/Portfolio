@@ -122,7 +122,7 @@ export default class About extends Component {
                     </li>
                     
                     <li>
-                        Social Media Profile Launcher - Browser Extensiom
+                        Social Media Profile Launcher - Browser Extension
                     </li>
                     
                     <strong>Jun 2019</strong>
