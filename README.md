@@ -1,7 +1,5 @@
 # Portfolio Website
 
-[![GitHub stars](https://img.shields.io/github/stars/AnjaliSharma1234/Portfolio?logo=github)](https://github.com/AnjaliSharma1234/Portfolio/stargazers) [![GitHub forks](https://img.shields.io/github/forks/AnjaliSharma1234/Portfolio.svg?logo=github&color=teal)](https://github.com/AnjaliSharma1234/Portfolio/network) [![GitHub top language](https://img.shields.io/github/languages/top/AnjaliSharma1234/Portfolio?color=yellow&logo=javascript)](https://github.com/AnjaliSharma1234/Portfolio)
-
 ![](public/images/portfolio.png)
 
 ## Admin
