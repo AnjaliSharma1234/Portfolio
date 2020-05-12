@@ -7,7 +7,7 @@ export default class Footer extends Component {
         <div className="row">
           <div className="col-full">
             <div className="footer-logo">
-              <a className="footer-site-logo" href="#0"><img src="images/logo.png" alt="Homepage" /></a>
+              <a className="footer-site-logo" href="www.anjalisharma.tech"><img src="images/logo.png" alt="Homepage" /></a>
             </div>
             <ul className="footer-social">
             <li><a href="https://www.linkedin.com/in/anjalisharmaaa/">
@@ -44,7 +44,7 @@ export default class Footer extends Component {
               <span>© Made with ❤ by Anjali Sharma</span>
             </div>
             <div className="go-top">
-              <a className="smoothscroll" title="Back to Top" href="#top"><i className="im im-arrow-up" aria-hidden="true" /></a>
+              <a className="smoothscroll" title="Back to Top" href="www.anjalisharma.tech"><i className="im im-arrow-up" aria-hidden="true" /></a>
             </div>
           </div>
         </div> {/* end footer-bottom */}
