@@ -15,9 +15,34 @@ export default class Blog extends Component {
             </p>
           </div>
         </div>
+
         <div className="row blog-content">
           <div className="col-full">
             <div className="blog-list block-1-2 block-tab-full">
+
+              <article className="col-block">
+                <div className="blog-date">
+                  <a href="https://medium.com/@anjalisharmaaa/15days15games-learn-game-development-by-building-games-9940cd26f751">May 15, 2020</a>
+                </div>  
+                <h2 className="h01"><a href="https://medium.com/@anjalisharmaaa/15days15games-learn-game-development-by-building-games-9940cd26f751">15 Days 15 Games - Learn Game Development by Building Games!</a></h2>
+                <p>What's the best way to learn Game Development other than building Games? <br /> With this initiative, I commit to learning game development in public by building one game per day and writing a blog post for everyone to learn.</p>
+                <div className="blog-cat">
+                
+                </div>
+              </article>
+              <article className="col-block">
+                <div className="blog-date">
+                  <a href="https://medium.com/mobile-web-dev/what-is-web-hosting-and-why-should-you-care-about-it-9df6fd79d37e">May 13, 2020</a>
+                </div>  
+                <h2 className="h01"><a href="https://medium.com/mobile-web-dev/what-is-web-hosting-and-why-should-you-care-about-it-9df6fd79d37e">Web Hosting and Cloud </a></h2>
+                <p>
+                Websites have become an inevitable part of our lives and by learning how to build and deploy your work for building faster and smarter applications, you are one step ahead in making yourself more employable.</p>
+                <div className="blog-cat">
+                  <a href="https://medium.com/mobile-web-dev/what-is-web-hosting-and-why-should-you-care-about-it-9df6fd79d37e">Getting started with Web Hosting</a><br />
+                  <a href="https://medium.com/mobile-web-dev/getting-into-web-hosting-environments-static-dynamic-and-local-hosting-462754ca7841">Web Hostng Environments - Static, Dynaic and Local Hosting</a>
+                </div>
+              </article>
+
               <article className="col-block">
                 <div className="blog-date">
                   <a href="https://medium.com/mobile-web-dev/learn-react-by-building-a-to-do-app-react-functionalities-explained-74f466e9396">Apr 28, 2020</a>
@@ -43,6 +68,7 @@ export default class Blog extends Component {
                   <a href="https://medium.com/@anjalisharmaaa">Google Ad Grants Online Marketing Challenge Explained</a>
                 </div>
               </article>
+              
               <article className="col-block">
                 <div className="blog-date">
                   <a href="blog-single.html">Mar 31, 2020</a>

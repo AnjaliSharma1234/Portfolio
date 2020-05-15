@@ -120,11 +120,34 @@ export default class Works extends Component {
                                     </div>
                                     <div className="item-folio__text">
                                         <h3 className="item-folio__title">
-                                            FAYZ - Largest Youth Online Canvas Feature 
+                                            15 Days 15 Games - Learn Game Development by Building Games!
                   </h3>
                                         <p className="item-folio__cat">
-                                            Storytelling
+                                            Technology
                   </p>
+                                    </div>
+                                    <a href="https://www.behance.net/" className="item-folio__project-link" title="Project link">
+                                        <i className="im im-link" />
+                                    </a>
+                                    <span className="item-folio__caption">
+                                        <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
+                                    </span>
+                                </div> {/* end item-folio */}
+                            </div> {/* end masonry__brick */}
+                        
+                            <div className="masonry__brick">
+                                <div className="item-folio">
+                                    <div className="item-folio__thumb">
+                                        <a href="https://www.facebook.com/photo.php?fbid=177708216212338&set=a.128981367751690&type=3&theater" className="thumb-link" title = "University Rank IV in 2017-18 " data-size="1050x700">
+                                            <img src="images/portfolio/minimalismo.jpg" href="https://www.facebook.com/photo.php?fbid=177708216212338&set=a.128981367751690&type=3&theater" alt="" />
+                                            <span className="shadow-overlay" />
+                                        </a>
+                                    </div>
+                                    <div className="item-folio__text">
+                                        <h3 className="item-folio__title">
+                                        Special Achiever - University Merit Certificate</h3>
+                                        <p className="item-folio__cat">
+                                        Academics</p>
                                     </div>
                                     <a href="https://www.behance.net/" className="item-folio__project-link" title="Project link">
                                         <i className="im im-link" />
@@ -158,28 +181,7 @@ export default class Works extends Component {
                                     </span>
                                 </div> {/* end item-folio */}
                             </div> {/* end masonry__brick */}
-                            <div className="masonry__brick">
-                                <div className="item-folio">
-                                    <div className="item-folio__thumb">
-                                        <a href="https://www.facebook.com/photo.php?fbid=177708216212338&set=a.128981367751690&type=3&theater" className="thumb-link" title = "University Rank IV in 2017-18 " data-size="1050x700">
-                                            <img src="images/portfolio/minimalismo.jpg" href="https://www.facebook.com/photo.php?fbid=177708216212338&set=a.128981367751690&type=3&theater" alt="" />
-                                            <span className="shadow-overlay" />
-                                        </a>
-                                    </div>
-                                    <div className="item-folio__text">
-                                        <h3 className="item-folio__title">
-                                        Special Achiever - University Merit Certificate</h3>
-                                        <p className="item-folio__cat">
-                                        Academics</p>
-                                    </div>
-                                    <a href="https://www.behance.net/" className="item-folio__project-link" title="Project link">
-                                        <i className="im im-link" />
-                                    </a>
-                                    <span className="item-folio__caption">
-                                        <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-                                    </span>
-                                </div> {/* end item-folio */}
-                            </div> {/* end masonry__brick */}
+
                             <div className="masonry__brick">
                                 <div className="item-folio">
                                     <div className="item-folio__thumb">

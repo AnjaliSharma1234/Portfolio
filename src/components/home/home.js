@@ -14,7 +14,7 @@ export default class Home extends Component {
                             </h1>
                             <div className="home-content__buttons">
                                 <a href="#works" className="smoothscroll btn btn--stroke">
-                                    Recent Work
+                                    Highlights
                                 </a>
                                 <a href="#blog" className="smoothscroll btn btn--stroke">
                                     Recent Blogs
