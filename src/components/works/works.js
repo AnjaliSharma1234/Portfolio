@@ -113,17 +113,17 @@ export default class Works extends Component {
                             <div className="masonry__brick">
                                 <div className="item-folio">
                                     <div className="item-folio__thumb">
-                                        <a href="https://fayz.in/stories/s/1582/0/?ckt_id=ZGL1ZGVk&title=five_success_tips_from_Anjali_Sharma" className="thumb-link" title = "Story Featured at Fayz"data-size="1050x700">
-                                            <img src="images/portfolio/skaterboy.jpg" href="https://fayz.in/stories/s/1582/0/?ckt_id=ZGL1ZGVk&title=five_success_tips_from_Anjali_Sharma" alt="" />
+                                        <a href="https://www.youtube.com/watch?v=RYISGXz64Cs&feature=youtu.be" className="thumb-link" title = "Story Featured at Fayz"data-size="1050x700">
+                                            <img src="images/portfolio/skaterboy.jpg" href="https://www.youtube.com/watch?v=RYISGXz64Cs&feature=youtu.be" alt="" />
                                             <span className="shadow-overlay" />
                                         </a>
                                     </div>
                                     <div className="item-folio__text">
                                         <h3 className="item-folio__title">
-                                            15 Days 15 Games - Learn Game Development by Building Games!
+                                            UAceit - Ace at your own pace Story Feature
                   </h3>
                                         <p className="item-folio__cat">
-                                            Technology
+                                            Storytelling
                   </p>
                                     </div>
                                     <a href="https://www.behance.net/" className="item-folio__project-link" title="Project link">
