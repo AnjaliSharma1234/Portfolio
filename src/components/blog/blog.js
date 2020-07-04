@@ -20,16 +20,7 @@ export default class Blog extends Component {
           <div className="col-full">
             <div className="blog-list block-1-2 block-tab-full">
 
-              <article className="col-block">
-                <div className="blog-date">
-                  <a href="https://medium.com/@anjalisharmaaa/15days15games-learn-game-development-by-building-games-9940cd26f751">May 15, 2020</a>
-                </div>  
-                <h2 className="h01"><a href="https://medium.com/@anjalisharmaaa/15days15games-learn-game-development-by-building-games-9940cd26f751">15 Days 15 Games - Learn Game Development by Building Games!</a></h2>
-                <p>What's the best way to learn Game Development other than building Games? <br /> With this initiative, I commit to learning game development in public by building one game per day and writing a blog post for everyone to learn.</p>
-                <div className="blog-cat">
-                
-                </div>
-              </article>
+              
               <article className="col-block">
                 <div className="blog-date">
                   <a href="https://medium.com/mobile-web-dev/what-is-web-hosting-and-why-should-you-care-about-it-9df6fd79d37e">May 13, 2020</a>
@@ -99,17 +90,7 @@ export default class Blog extends Component {
                   <a href="https://medium.com/@anjalisharmaaa">Read more on Medium </a>
                 </div>
               </article>
-              <article className="col-block">
-                <div className="blog-date">
-                  <a href="blog-single.html">Feb 11, 2020</a>
-                </div>    
-                <h2 className="h01"><a href="https://medium.com/@anjalisharmaaa/iamremarkable-everything-you-need-to-know-12060815722b">#IamRemarkable — Everything you need to know!</a></h2>
-                <p>
-                #IamRemarkable is a Google initiative, started with the primary aim of empowering women and underrepresented groups but are now more open and versatile to celebrate anyone’s achievements in the workplace and beyond.</p>
-                <div className="blog-cat">
-                  <a href="https://medium.com/@anjalisharmaaa">Personality Development</a><a href="https://medium.com/@anjalisharmaaa">Motivation</a>
-                </div>
-              </article>
+              
               <article className="col-block">
                 <div className="blog-date">
                   <a href="https://medium.com/@anjalisharmaaa/my-european-experience-formula-student-germany-2019-796307909959">Sept 02, 2019</a>

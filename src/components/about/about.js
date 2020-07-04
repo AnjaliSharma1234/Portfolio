@@ -21,23 +21,12 @@ export default class About extends Component {
                                 <div className="timeline__block">
                                     <div className="timeline__bullet" />
                                     <div className="timeline__header">
-                                        <p className="timeline__timeframe">Mar 2020 - Present</p>
-                                        <h3>Software Development Intern</h3>
-                                        <h5>Twimbit</h5>
+                                        <p className="timeline__timeframe">Jul 2020 - Present</p>
+                                        <h3>Business Analyst</h3>
+                                        <h5>Areva Limited</h5>
                                     </div>
                                     <div className="timeline__desc">
-                                        <p>Twimbit is a research based IT firm that redefines how content is consumed over Internet. <br /> As an intern, I am developing a cross platform browser extension based on a web application from scratch. <br /> Technologies: HTML5, CSS3, Javascript, REST API, ReactJS</p>
-                                    </div>
-                                </div> {/* end timeline__block */}
-                                <div className="timeline__block">
-                                    <div className="timeline__bullet" />
-                                    <div className="timeline__header">
-                                        <p className="timeline__timeframe">Mar 2020 - Present</p>
-                                        <h3>Open Source Contributor</h3>
-                                        <h5>Girlscript Summer of Code 2020</h5>
-                                    </div>
-                                    <div className="timeline__desc">
-                                        <p> Girlscript Summer Of Code is a 3-month long open source project under Girlscript India.<br />Project: Online Resume Generator <br /> Technologies: HTML5, CSS3, Javascript, Bootstrap, ReactJS</p>
+                                        <p>Involved in Business Analysis, Strategy Development, Implementaion & Marketing activities in the internal projects and building proof of concepts at Areva.</p>
                                     </div>
                                 </div> {/* end timeline__block */}
                                 <div className="timeline__block">
@@ -51,10 +40,6 @@ export default class About extends Component {
                                         <p>Increased total conversions by 1798% and click through rate by 50.27% within 4 weeks through Market Analysis and Research for an education based NGO - PlanetRead</p>
                                     </div>
                                 </div> {/* end timeline__block */}
-                            </div> {/* end timeline */}
-                        </div> {/* end left */}
-                        <div className="col-six tab-full right">
-                            <div className="timeline">
                                 <div className="timeline__block">
                                     <div className="timeline__bullet" />
                                     <div className="timeline__header">
@@ -63,21 +48,27 @@ export default class About extends Component {
                                         <h5>Microsoft</h5>
                                     </div>
                                     <div className="timeline__desc">
-                                        <p>The Microsoft Student Partner program is a global group of on-campus ambassadors who are eager to help fellow students and lead in their local tech community.<br />Learned and informed 150 students through 9 workshops about Open Source, Machine Learning, Azure and DevOps.</p>
+                                        <p>Organised and informed 150 students through 9 workshops about Open Source, Machine Learning, Azure and DevOps.<br/> Guest Keynote Speaker at Global Diversity CFP Day 2020</p>
                                     </div>
                                 </div> {/* end timeline__block */}
-                                <div className="timeline__block">
+                                
+                            </div> {/* end timeline */}
+                        </div> {/* end left */}
+                        <div className="col-six tab-full right">
+                            <div className="timeline">
+                            <div className="timeline__block">
                                     <div className="timeline__bullet" />
                                     <div className="timeline__header">
                                         <p className="timeline__timeframe">June 2019 - Present</p>
-                                        <h3>Google supported TalentSprint Women Engineers Scholar 2019</h3>
-                                        <h5>TalentSprint</h5>
+                                        <h3>Women Techmakers Engineering Fellowship Program</h3>
+                                        <h5>Google India</h5>
                                     </div>
                                     <div className="timeline__desc">
-                                        <p>Google TSWE is a two-year scholarship program conducted by TalentSprint and Google. I was selected one among the top 100 women engineers from 7300+ applicants all over India. <br />Attended 53 online workshops, 12 mock interviews and 1
-                                            coding bootcamp to learn problem solving and soft skills.</p>
+                                        <p> One among top 100 women engineers from 7300+ applicants all over India. 
+                                             Attended 53 online workshops and 3 bootcamps to learn problem solving and industrial analytical skills.</p>
                                     </div>
                                 </div> {/* end timeline__block */}
+                                
                                 <div className="timeline__block">
                                     <div className="timeline__bullet" />
                                     <div className="timeline__header">
@@ -87,6 +78,18 @@ export default class About extends Component {
                                     </div>
                                     <div className="timeline__desc">
                                         <p>MHRD IIC is a council for fostering the culture of Innovation in all Higher Education Institutions (HEIs) across the country. <br /> Faciliated 3 early startups in terms of resources and guidance.</p>
+                                    </div>
+                                </div> {/* end timeline__block */}
+
+                                <div className="timeline__block">
+                                    <div className="timeline__bullet" />
+                                    <div className="timeline__header">
+                                        <p className="timeline__timeframe">Jan 2018 - Sept 2019</p>
+                                        <h3>Design & Cost Analysis Team Member</h3>
+                                        <h5>Pravega Racing</h5>
+                                    </div>
+                                    <div className="timeline__desc">
+                                        <p>Analysed, prepared, and presented the Design and Cost Analysis of the race car internationally at Formula Student Germany 2019. <br /> Secured 15th overall rank out of 117 teams worldwide.</p>
                                     </div>
                                 </div> {/* end timeline__block */}
                             </div> {/* end timeline */}
@@ -143,29 +146,29 @@ export default class About extends Component {
           <div className="col-six tab-full right">
             <h3>I've Got Some skills.</h3>
             <ul className="skill-bars">
-              <li>
-                <div className="progress percent95"><span>95%</span></div>
-                <strong>HTML5, CSS3, Javascript, ReactJS</strong>
+            <li>
+                <div className="progress percent100"></div>
+                <strong>Business Problem Solving - Analytical, Case Study </strong>
               </li>
               <li>
-                <div className="progress percent90"><span>90%</span></div>
-                <strong>Problem Solving - Java, python</strong>
+                <div className="progress percent100"></div>
+                <strong>Software Problem Solving - Java, python</strong>
               </li>
               <li>
-                <div className="progress percent85"><span>85%</span></div>
-                <strong>System Scalability and Design</strong>
+                <div className="progress percent100"></div>
+                <strong>Web Development - HTML5, CSS3, Javascript, ReactJS</strong>
               </li>
               <li>
-                <div className="progress percent97"><span>97%</span></div>
-                <strong>GIT, Google Adwords, GSuite</strong>
+                <div className="progress percent100"></div>
+                <strong>Tools - GIT, Google Adwords, GSuite</strong>
               </li>
               <li>
-                <div className="progress percent95"><span>95%</span></div>
-                <strong>Time & Project Management</strong>
+                <div className="progress percent100"></div>
+                <strong>Time Managemet & Project Management</strong>
               </li>   
               <li>
-                <div className="progress percent97"><span>97%</span></div>
-                <strong>Public Speaking, Blogging</strong>
+                <div className="progress percent100"></div>
+                <strong>Public Speaking & Blogging</strong>
               </li>   
             </ul>
           </div>

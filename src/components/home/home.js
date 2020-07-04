@@ -10,7 +10,7 @@ export default class Home extends Component {
                         <div className="row home-content__main">
                             <h3>Hello There</h3>
                             <h1>I am Anjali Sharma. <br />
-                            I am a Storyteller, Blogger & <br />a Web Developer.
+                            I am a Business Storyteller & <br />a Web Developer.
                             </h1>
                             <div className="home-content__buttons">
                                 <a href="#works" className="smoothscroll btn btn--stroke">
