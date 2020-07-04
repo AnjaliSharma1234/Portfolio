@@ -65,14 +65,14 @@ export default class Works extends Component {
                             <div className="masonry__brick">
                                 <div className="item-folio">
                                     <div className="item-folio__thumb">
-                                        <a href="https://www.instagram.com/p/BzSchObp0-J/" className="thumb-link" title="Google TSWE Scholar 2019"data-size="1050x700">
-                                            <img src="images/portfolio/salad.jpg" href="https://www.instagram.com/p/BzSchObp0-J/" alt="" />
+                                        <a href="https://medium.com/@anjalisharmaaa/how-to-become-google-ads-top-marketer-google-ad-grants-online-marketing-challenge-explained-e8e1f3041cfb" className="thumb-link" title="Google TSWE Scholar 2019"data-size="1050x700">
+                                            <img src="images/portfolio/salad.jpg" href="https://medium.com/@anjalisharmaaa/how-to-become-google-ads-top-marketer-google-ad-grants-online-marketing-challenge-explained-e8e1f3041cfb" alt="" />
                                             <span className="shadow-overlay" />
                                         </a>
                                     </div>
                                     <div className="item-folio__text">
                                         <h3 className="item-folio__title">
-                                            Google TSWE Scholar 2019
+                                            Google Ads Top Marketer
                   </h3>
                                         <p className="item-folio__cat">
                                             Technology
