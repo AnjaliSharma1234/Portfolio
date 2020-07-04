@@ -8,7 +8,7 @@ export default class About extends Component {
                         <div className="col-full text-center">
                             <h3>Education</h3>
                             <h4>Bachelor of Technology in Electrical and Electronics Engineering <br /> VIT Vellore (Jul 2017 - May 2021)</h4>
-                            <p className="lead">CGPA: 9.17/10(till 6th Sem)</p>
+                            <p className="lead">CGPA: 9.06/10(till 6th Sem)</p>
                             <p> Academic Merit Certificate for IV University Rank in 2017-18 | Member of MHRD Institutions's Innovation Council (IIC) - VIT |  Represented VIT at Formula Student Germany 2019 | Former Student Mentor at Mozilla Student Developers Group - VIT | Won multiple prizes for hackathons, academics, and public speaking. </p>
                         </div>
                     </div>
