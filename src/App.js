@@ -7,6 +7,7 @@ import Works from './components/works/works';
 import Blog from './components/blog/blog';
 import Contact from './components/contact/contact';
 import Footer from './components/footer/footer';
+import Experience from './components/experience/experience';
 class App extends Component {
   render() {
     return (
@@ -15,8 +16,10 @@ class App extends Component {
         <Home />
         <AboutME />
         <Works />
-        <Blog />
         <About />
+        {/* <Experience /> */}
+        <Blog />
+        
         <Contact />
         <Footer />
       </div>
