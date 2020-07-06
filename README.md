@@ -1,4 +1,4 @@
-# Personal Portfolio Website - anjalisharma.tech 
+# Personal Portfolio Website
 
 ![](public/images/portfolio.png)
 
