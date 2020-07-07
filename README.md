@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# Personal Portfolio
 
 ![](public/images/portfolio.png)
 
