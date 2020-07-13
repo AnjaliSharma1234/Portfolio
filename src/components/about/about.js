@@ -23,7 +23,7 @@ export default class About extends Component {
                                     <div className="timeline__header">
                                         <p className="timeline__timeframe">Jul 2020 - Present</p>
                                         <h3>Business Analyst</h3>
-                                        <h5>Areva Limited</h5>
+                                        <h5>Areva consultancy</h5>
                                     </div>
                                     <div className="timeline__desc">
                                         <p>Involved in Business Analysis, Strategy Development, Implementaion & Marketing activities in the internal projects and building proof of concepts at Areva.</p>
