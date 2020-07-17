@@ -1,7 +1,7 @@
 # Portfolio website 
 ![](public/images/portfolio.png)
 
-## Admin
+## Project Admin
 
 [![Relative date](https://img.shields.io/date/1577392258?color=important&label=started&logo=github)](https://github.com/AnjaliSharma1234/) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/AnjaliSharma1234/)
 
