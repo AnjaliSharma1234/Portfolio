@@ -22,7 +22,7 @@ export default class About extends Component {
                                     <div className="timeline__bullet" />
                                     <div className="timeline__header">
                                         <p className="timeline__timeframe">Jul 2020 - Present</p>
-                                        <h3>Business Analyst</h3>
+                                        <h3>Business Analyst Intern</h3>
                                         <h5>Areva consultancy</h5>
                                     </div>
                                     <div className="timeline__desc">
