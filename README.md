@@ -13,5 +13,3 @@
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/AnjaliSharma1234/)
 
 
-
-.
