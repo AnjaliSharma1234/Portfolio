@@ -72,7 +72,7 @@ export default class About extends Component {
                                 <div className="timeline__block">
                                     <div className="timeline__bullet" />
                                     <div className="timeline__header">
-                                        <p className="timeline__timeframe">June 2019 - Present</p>
+                                        <p className="timeline__timeframe">June 2019 - Dec 2020</p>
                                         <h3>Startup Co-ordinator</h3>
                                         <h5>Institution's Innovation Council MHRD - VIT</h5>
                                     </div>
