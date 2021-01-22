@@ -26,7 +26,7 @@ export default class About extends Component {
                                         <h5>Gradeup</h5>
                                     </div>
                                     <div className="timeline__desc">
-                                        <p>Competitor Benchmarking & analyzing data on Google Analytics, Tableau, and CleverTap software, extracting insights to develop a marketing & sales plan.</p>
+                                        <p>Funnel Analysis, Competitor Benchmarking & Analyzing data on Google Analytics, Tableau, and CleverTap software, extracting insights to develop marketing and growth strategies.</p>
                                     </div>
                                 </div> {/* end timeline__block */}
                                 <div className="timeline__block">
