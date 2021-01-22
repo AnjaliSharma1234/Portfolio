@@ -23,7 +23,7 @@ export default class About extends Component {
                                     <div className="timeline__header">
                                         <p className="timeline__timeframe">Oct 2020 - Present</p>
                                         <h3>Category Growth Analyst</h3>
-                                        <h5>Gradeup</h5>
+                                        <h5>Gradeup (Gradestack Learning Pvt Ltd)</h5>
                                     </div>
                                     <div className="timeline__desc">
                                         <p>Funnel Analysis, Competitor Benchmarking & Analyzing data on Google Analytics, Tableau, and CleverTap software, extracting insights to develop marketing and growth strategies.</p>
