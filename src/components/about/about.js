@@ -21,18 +21,18 @@ export default class About extends Component {
                                 <div className="timeline__block">
                                     <div className="timeline__bullet" />
                                     <div className="timeline__header">
-                                        <p className="timeline__timeframe">Jul 2020 - Present</p>
-                                        <h3>Business Analyst Intern</h3>
-                                        <h5>Areva consultancy</h5>
+                                        <p className="timeline__timeframe">Oct 2020 - Present</p>
+                                        <h3>Category Growth Analyst</h3>
+                                        <h5>Gradeup</h5>
                                     </div>
                                     <div className="timeline__desc">
-                                        <p>Involved in Business Analysis, Strategy Development, Implementaion & Marketing activities in the internal projects and building proof of concepts at Areva.</p>
+                                        <p>Competitor Benchmarking & analyzing data on Google Analytics, Tableau, and CleverTap software, extracting insights to develop a marketing & sales plan.</p>
                                     </div>
                                 </div> {/* end timeline__block */}
                                 <div className="timeline__block">
                                     <div className="timeline__bullet" />
                                     <div className="timeline__header">
-                                        <p className="timeline__timeframe">Jan 2020 - Present</p>
+                                        <p className="timeline__timeframe">Jan 2020 - Oct 2020</p>
                                         <h3>Google Ads Top Marketer</h3>
                                         <h5>Google Ad Grants Online Marketing Challenge 2020</h5>
                                     </div>
