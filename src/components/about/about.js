@@ -99,7 +99,7 @@ export default class About extends Component {
                         </div>
                     </div> {/* end about-content timeline */}
        
-                    
+                  </div> 
                 </section> {/* end about */}
 
             </React.Fragment>
