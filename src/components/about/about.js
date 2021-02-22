@@ -101,9 +101,11 @@ export default class About extends Component {
                 </div>
                 {/* end timeline__block */}
 
-                <div className="timeline__block">
+             
+    
+     <div className="timeline__block">
                   <div className="timeline__bullet" />
-                  <div clssName="timeline__header">
+                  <div className="timeline__header">
                     <p className="timeline__timeframe">Sept 2019 - Present</p>
                     <h3>Microsoft Student Partner</h3>
                     <h5>Microsoft</h5>
