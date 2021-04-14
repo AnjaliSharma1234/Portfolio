@@ -8,17 +8,12 @@ export default class About extends Component {
             <div className="col-full text-center">
               <h3>Education</h3>
               <h4>
-                Bachelor of Technology in Electrical and Electronics Engineering{" "}
-                <br /> VIT Vellore (Jul 2017 - May 2021)
+                Bachelor of Technology from VIT Vellore (CGPA: 9.13/10){" "}
               </h4>
-              <p className="lead">CGPA: 9.13/10(till 7th Sem)</p>
               <p>
                 {" "}
-                Academic Merit Certificate for IV University Rank in 2017-18 |
-                Member of MHRD Institutions's Innovation Council (IIC) - VIT |
-                Represented VIT at Formula Student Germany 2019 | Former Student
-                Mentor at Mozilla Student Developers Group - VIT | Won multiple
-                prizes for hackathons, academics, and public speaking.{" "}
+                University Special Achiever Award Holder 2020 | Academic Merit Award for IV University Rank in 2017-18 |
+                Represented India at Formula Student Germany 2019 {" "}
               </p>
             </div>
           </div>
@@ -37,8 +32,8 @@ export default class About extends Component {
                   </div>
                   <div className="timeline__desc">
                     <p>
-                      Working in the Product domain of one of the finest
-                      healthcare solutions to drive change for good.
+                      Working in the Engagement and Retention Product domain of one of the finest
+                      healthcare solutions to drive a change for greater good.
                     </p>
                   </div>
                 </div>
