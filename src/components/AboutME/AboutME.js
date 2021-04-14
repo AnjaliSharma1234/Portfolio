@@ -8,7 +8,7 @@ export default class AboutME extends Component {
                         <div className="col-full text-center">
                             <h3>About Me</h3>
                             <h1>"A Renaissance Soul"</h1>
-                            <p className="lead">Hey there, welcome to my world of diverse experiences and ideas!</p>
+                            <p className="lead">Welcome to my world of diverse experiences and ideas!</p>
                         </div>
                     </div>
                 </section> {/* end about */}
