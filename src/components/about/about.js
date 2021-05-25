@@ -8,11 +8,11 @@ export default class About extends Component {
             <div className="col-full text-center">
               <h3>Education</h3>
               <h4>
-                Bachelor of Technology from VIT Vellore (CGPA: 9.13/10){" "}
+                B.Tech. from VIT Vellore (2017 - 2021) {" "}
               </h4>
               <p>
                 {" "}
-                University Special Achiever Award Holder 2020 | Academic Merit Award for IV University Rank in 2017-18 |
+                CGPA: 9.13/10 | University Special Achiever Award Holder 2020 | Academic Merit Award for IV University Rank in 2017-18 |
                 Represented India at Formula Student Germany 2019 {" "}
               </p>
             </div>
@@ -81,7 +81,7 @@ export default class About extends Component {
                 <div className="timeline__block">
                   <div className="timeline__bullet" />
                   <div className="timeline__header">
-                    <p className="timeline__timeframe">June 2019 - Present</p>
+                    <p className="timeline__timeframe">June 2019 - May 2021</p>
                     <h3>Women Techmakers Engineering Fellowship Program</h3>
                     <h5>Google India</h5>
                   </div>
@@ -101,7 +101,7 @@ export default class About extends Component {
      <div className="timeline__block">
                   <div className="timeline__bullet" />
                   <div className="timeline__header">
-                    <p className="timeline__timeframe">Sept 2019 - Present</p>
+                    <p className="timeline__timeframe">Sept 2019 - Dec 2020</p>
                     <h3>Microsoft Student Partner</h3>
                     <h5>Microsoft</h5>
                   </div>
