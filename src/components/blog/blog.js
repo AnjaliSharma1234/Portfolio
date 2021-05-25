@@ -8,9 +8,8 @@ export default class Blog extends Component {
           <div className="col-full">
             <h3>Journal</h3>
             <h1>Latest From The Blog.</h1>
-            <p className="lead">Top Writer Recognition in Women in Tech by Medium <br />
-            Editor and Writer at Noteworthy Journal <br />
-            Technical Writer at Mobile-web.dev <br />
+            <p className="lead">Top Writer Recognition by Medium under Women in Tech category <br />
+            Editor and Writer at Noteworthy Journal having 50k+ readers <br />
             Medium Username: <a href="https://medium.com/@anjalisharmaaa">@anjalisharmaaa</a>
             </p>
           </div>
