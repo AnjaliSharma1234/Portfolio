@@ -14,7 +14,7 @@ export default class Footer extends Component {
                   <i className="im im-linkedin" aria-hidden="true" />
                   <span>LinkedIn</span>
                 </a></li>
-                <li><a href="https://twitter.com/AnjaliiSharmaaa">
+                <li><a href="https://twitter.com/anjalisharmaaa_">
                   <i className="im im-twitter" aria-hidden="true" />
                   <span>Twitter</span>
                 </a></li>
@@ -22,12 +22,12 @@ export default class Footer extends Component {
                   <i className="im im-github" aria-hidden="true" />
                   <span>Github</span>
                 </a></li>
-              <li><a href="https://www.instagram.com/anjali.sharma276/">
+              <li><a href="https://www.instagram.com/anjalisharma.gif/">
                   <i className="im im-instagram" aria-hidden="true" />
                   <span>Instagram</span>
                 </a></li>
-                <li><a href="https://www.facebook.com/anjali.sharma276">
-                  <i className="im im-facebook" aria-hidden="true" />
+                <li><a href="https://anjalisharma.substack.com/">
+                  <i className="im im-news" aria-hidden="true" />
                   <span>Facebook</span>
                 </a></li>
                 <li><a href="https://medium.com/@anjalisharmaaa">
