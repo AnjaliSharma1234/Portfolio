@@ -27,14 +27,9 @@ export default class Footer extends Component {
                   <span>Instagram</span>
                 </a></li>
                 <li><a href="https://anjalisharma.substack.com/">
-                  <i className="im im-news" aria-hidden="true" />
-                  <span>Facebook</span>
-                </a></li>
-                <li><a href="https://medium.com/@anjalisharmaaa">
                   <i className="im im-link" aria-hidden="true" />
-                  <span>Blog</span>
-                </a></li>
-              
+                  <span>Newsletter</span>
+                </a></li>              
             </ul>
           </div>
         </div>
