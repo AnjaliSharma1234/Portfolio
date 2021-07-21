@@ -12,7 +12,7 @@ export default class About extends Component {
               </h4>
               <p>
                 {" "}
-                CGPA: 9.13/10 | University Special Achiever Award Holder 2020 | Academic Merit Award for IV University Rank in 2017-18 |
+                CGPA: 9.22/10 | University Special Achiever Award Holder 2020 | Academic Merit Award for IV University Rank in 2017-18 |
                 Represented India at Formula Student Germany 2019 {" "}
               </p>
             </div>
