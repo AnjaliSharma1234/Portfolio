@@ -13,7 +13,7 @@ export default class Home extends Component {
                             I am an Associate Product Manager & a Storyteller.
                             </h1>
                             <div className="home-content__buttons">
-                                <a href="#works" className="smoothscroll btn btn--stroke">
+                                <a href="https://anjalisharma.substack.com/welcome" className="smoothscroll btn btn--stroke">
                                     Highlights
                                 </a>
                                 <a href="#blog" className="smoothscroll btn btn--stroke">
@@ -32,7 +32,7 @@ export default class Home extends Component {
                             <a href="https://www.linkedin.com/in/anjalisharmaaa/"><i className="im im-linkedin" aria-hidden="true" /><span>LinkedIn</span></a>
                         </li>
                         <li>
-                            <a href="https://twitter.com/AnjaliiSharmaaa"><i className="im im-twitter" aria-hidden="true" /><span>Twitter</span></a>
+                            <a href="https://twitter.com/anjalisharmaaa_"><i className="im im-twitter" aria-hidden="true" /><span>Twitter</span></a>
                         </li>
                         <li>
                             <a href="https://github.com/AnjaliSharma1234"><i className="im im-github" aria-hidden="true" /><span>Github</span></a>
