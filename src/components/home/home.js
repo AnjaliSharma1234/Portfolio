@@ -10,11 +10,11 @@ export default class Home extends Component {
                         <div className="row home-content__main">
                             <h3>Hello There</h3>
                             <h1>I am Anjali Sharma. <br />
-                            I am an Associate Product Manager & a Storyteller.
+                            I am a Product Manager & a Storyteller.
                             </h1>
                             <div className="home-content__buttons">
                                 <a href="https://anjalisharma.substack.com/welcome" className="smoothscroll btn btn--stroke">
-                                    Highlights
+                                    My Newsletter
                                 </a>
                                 <a href="#blog" className="smoothscroll btn btn--stroke">
                                     Recent Blogs
