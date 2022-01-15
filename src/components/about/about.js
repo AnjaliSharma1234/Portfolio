@@ -12,7 +12,7 @@ export default class About extends Component {
               </h4>
               <p>
                 {" "}
-                CGPA: 9.22/10 | University Special Achiever Award Holder 2020 | Academic Merit Award for IV University Rank in 2017-18 |
+                CGPA: 9.22/10 | University Special Achiever Award Holder 2020 | Academic Merit Award for IV University Rank |
                 Represented India at Formula Student Germany 2019 {" "}
               </p>
             </div>
@@ -27,7 +27,7 @@ export default class About extends Component {
                   <div className="timeline__bullet" />
                   <div className="timeline__header">
                     <p className="timeline__timeframe">Feb 2021 - Present</p>
-                    <h3>Associate Product Manager</h3>
+                    <h3>Assistant Product Manager</h3>
                     <h5>Bajaj Finserv Health</h5>
                   </div>
                   <div className="timeline__desc">
