@@ -39,7 +39,7 @@ export default class Blog extends Component {
                 </div>  
                 <h2 className="h01"><a href="https://medium.com/digital-diplomacy/how-and-why-to-be-a-microsoft-learn-student-ambassador-everything-you-need-to-know-15c9ae4704d5">All About Microsoft Student Partner Program</a></h2>
                 <p>
-                How to apply, selection process, eligibility criteria, benefits & everything else.</p>
+                How to apply, selection process, eligibility criteria, benefits, community & everything else.</p>
                 <div className="blog-cat">
                   <a href="https://medium.com/digital-diplomacy/how-and-why-to-be-a-microsoft-learn-student-ambassador-everything-you-need-to-know-15c9ae4704d5">My Experience & Program Details</a> <br />
                                
