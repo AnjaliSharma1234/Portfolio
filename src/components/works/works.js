@@ -23,7 +23,7 @@ export default class Works extends Component {
                                     </div>
                                     <div className="item-folio__text">
                                         <h3 className="item-folio__title">
-                                            Storytelling - Product, Placements & Life
+                                            Product, Placements & Life
                   </h3>
                                         <p className="item-folio__cat">
                                             Youtube Playlist - talks & Webinar
