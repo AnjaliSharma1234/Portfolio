@@ -10,9 +10,11 @@ export default class About extends Component {
             </div>
           </div>
           <div className="row about-content about-content--timeline">
-         <div className="col-full text-center">
+         <div className="row narrow section-intro has-bottom-sep">
+            <div className="col-full text-center">
               <h3>WORK EXPERIENCE</h3>
             </div>
+          </div>
             <div className="col-six tab-full left">
               <div className="timeline">
                 <div className="timeline__block">
