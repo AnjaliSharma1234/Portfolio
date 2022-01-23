@@ -69,15 +69,13 @@ export default class Blog extends Component {
                 <a href="https://medium.com/@anjalisharmaaa/storytelher-record08-beyond-self-doubt-and-peer-pressure-b669e85c028b">Beyond Self Doubt and Peer Pressure</a> <br />
                   <a href="https://medium.com/@anjalisharmaaa/storytelher-record07-anytime-is-the-right-time-aca51deb2f1b">Anytime is the right time</a> <br />
                   <a href="https://blog.usejournal.com/storytelher-record02-speak-up-your-mind-49582d57326e">Speak Up your Mind</a> <br />
-                  <a href="https://medium.com/@anjalisharmaaa">Read more records on Medium</a>
-                
                 </div>
               </article>
               <article className="col-block">
                 <div className="blog-date">
                   <a href="https://www.instagram.com/thefirst24hours/">Mar 4, 2020</a>
                 </div>  
-                <h2 className="h01"><a href="https://www.instagram.com/thefirst24hours/">The First 24 Hours</a></h2>
+                <h2 className="h01"><a href="https://www.instagram.com/thefirst24hours/">The First 24 Hours - A Daily Takeaways Initiative</a></h2>
                 <p>
                 The First 24 Hours is my personal initiative of acknowleding and embracing the daily takeaways to increase the overall productivity and mental well being.</p>
                 <div className="blog-cat">
@@ -85,7 +83,6 @@ export default class Blog extends Component {
                   <a href="https://www.instagram.com/p/B8jgBUQB3R3/">Bajrang Dal Ft. Valentine's Day</a> <br />
                   <a href="https://www.instagram.com/p/B8KHDH7hVRW/">Life is a DIY Project</a> <br />
                   <a href="https://www.instagram.com/thefirst24hours/">Read more on Instagram</a><br />
-                  <a href="https://medium.com/@anjalisharmaaa">Read more on Medium </a>
                 </div>
               </article>
               
