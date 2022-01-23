@@ -22,29 +22,29 @@ export default class Blog extends Component {
               
               <article className="col-block">
                 <div className="blog-date">
-                  <a href="https://medium.com/mobile-web-dev/what-is-web-hosting-and-why-should-you-care-about-it-9df6fd79d37e">May 13, 2020</a>
+                  <a href="https://anjalisharmaaa.medium.com/a-step-by-step-guide-to-prepare-and-ace-the-off-campus-placements-95c60b18629f">Oct 4, 2020</a>
                 </div>  
-                <h2 className="h01"><a href="https://medium.com/mobile-web-dev/what-is-web-hosting-and-why-should-you-care-about-it-9df6fd79d37e">Web Hosting and Cloud </a></h2>
+                <h2 className="h01"><a href="https://anjalisharmaaa.medium.com/a-step-by-step-guide-to-prepare-and-ace-the-off-campus-placements-95c60b18629f">Off-Campus Placement Roadmap </a></h2>
                 <p>
-                Websites have become an inevitable part of our lives and by learning how to build and deploy your work for building faster and smarter applications, you are one step ahead in making yourself more employable.</p>
-                <div className="blog-cat">
-                  <a href="https://medium.com/mobile-web-dev/what-is-web-hosting-and-why-should-you-care-about-it-9df6fd79d37e">Getting started with Web Hosting</a><br />
-                  <a href="https://medium.com/mobile-web-dev/getting-into-web-hosting-environments-static-dynamic-and-local-hosting-462754ca7841">Web Hostng Environments - Static, Dynaic and Local Hosting</a>
-                </div>
+                A step by step guide to prepare and ace your off campus placements.</p>
+//                 <div className="blog-cat">
+//                   <a href="https://medium.com/mobile-web-dev/what-is-web-hosting-and-why-should-you-care-about-it-9df6fd79d37e">Getting started with Web Hosting</a><br />
+//                   <a href="https://medium.com/mobile-web-dev/getting-into-web-hosting-environments-static-dynamic-and-local-hosting-462754ca7841">Web Hostng Environments - Static, Dynaic and Local Hosting</a>
+//                 </div>
               </article>
 
               <article className="col-block">
                 <div className="blog-date">
-                  <a href="https://medium.com/mobile-web-dev/learn-react-by-building-a-to-do-app-react-functionalities-explained-74f466e9396">Apr 28, 2020</a>
+                  <a href="https://medium.com/digital-diplomacy/how-and-why-to-be-a-microsoft-learn-student-ambassador-everything-you-need-to-know-15c9ae4704d5">Nov 1, 2020</a>
                 </div>  
-                <h2 className="h01"><a href="https://medium.com/mobile-web-dev/learn-react-by-building-a-to-do-app-react-functionalities-explained-74f466e9396">Learn React by Building a Web Application</a></h2>
+                <h2 className="h01"><a href="https://medium.com/digital-diplomacy/how-and-why-to-be-a-microsoft-learn-student-ambassador-everything-you-need-to-know-15c9ae4704d5">All About Microsoft Student Partner Program</a></h2>
                 <p>
-                If you are one of those people who are intimidated by the buzz around React but find it difficult to get started, then this article is a best place for you to getting started...</p>
-                <div className="blog-cat">
-                  <a href="https://medium.com/mobile-web-dev/how-to-build-and-deploy-a-react-app-to-github-pages-in-less-than-5-minutes-d6c4ffd30f14">How to Build and Deploy React Apps in Less than 5 minutes</a> <br />
-                  <a href="https://medium.com/mobile-web-dev/how-to-build-and-publish-a-chrome-extension-in-10-minutes-browser-extension-explained-6caa17df46f">How to Build and Publish a Chrome Extension in 10 minutes</a>
+                How to apply, Selection Process, ELigibility Criteria, Perks & Everything else.</p>
+//                 <div className="blog-cat">
+//                   <a href="https://medium.com/mobile-web-dev/how-to-build-and-deploy-a-react-app-to-github-pages-in-less-than-5-minutes-d6c4ffd30f14">How to Build and Deploy React Apps in Less than 5 minutes</a> <br />
+//                   <a href="https://medium.com/mobile-web-dev/how-to-build-and-publish-a-chrome-extension-in-10-minutes-browser-extension-explained-6caa17df46f">How to Build and Publish a Chrome Extension in 10 minutes</a>
                 
-                </div>
+//                 </div>
               </article>
               <article className="col-block">
                 <div className="blog-date">
