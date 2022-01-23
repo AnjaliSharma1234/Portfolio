@@ -24,13 +24,13 @@ export default class Blog extends Component {
                 <div className="blog-date">
                   <a href="https://anjalisharmaaa.medium.com/a-step-by-step-guide-to-prepare-and-ace-the-off-campus-placements-95c60b18629f">Oct 4, 2020</a>
                 </div>  
-                <h2 className="h01"><a href="https://anjalisharmaaa.medium.com/a-step-by-step-guide-to-prepare-and-ace-the-off-campus-placements-95c60b18629f">Off-Campus Placement Roadmap </a></h2>
+                <h2 className="h01"><a href="https://anjalisharmaaa.medium.com/a-step-by-step-guide-to-prepare-and-ace-the-off-campus-placements-95c60b18629f">Off-Campus Placement Detailed Roadmap </a></h2>
                 <p>
-                A step by step guide to prepare and ace your off campus placements.</p>
-//                 <div className="blog-cat">
-//                   <a href="https://medium.com/mobile-web-dev/what-is-web-hosting-and-why-should-you-care-about-it-9df6fd79d37e">Getting started with Web Hosting</a><br />
-//                   <a href="https://medium.com/mobile-web-dev/getting-into-web-hosting-environments-static-dynamic-and-local-hosting-462754ca7841">Web Hostng Environments - Static, Dynaic and Local Hosting</a>
-//                 </div>
+                A step by step guide to prepare and ace your off campus placements for engineers.</p>
+                <div className="blog-cat">
+                  <a href="https://anjalisharmaaa.medium.com/a-step-by-step-guide-to-prepare-and-ace-the-off-campus-placements-95c60b18629f"> Off-campus Placements Simplified</a><br />
+    
+                </div>
               </article>
 
               <article className="col-block">
@@ -39,12 +39,11 @@ export default class Blog extends Component {
                 </div>  
                 <h2 className="h01"><a href="https://medium.com/digital-diplomacy/how-and-why-to-be-a-microsoft-learn-student-ambassador-everything-you-need-to-know-15c9ae4704d5">All About Microsoft Student Partner Program</a></h2>
                 <p>
-                How to apply, Selection Process, ELigibility Criteria, Perks & Everything else.</p>
-//                 <div className="blog-cat">
-//                   <a href="https://medium.com/mobile-web-dev/how-to-build-and-deploy-a-react-app-to-github-pages-in-less-than-5-minutes-d6c4ffd30f14">How to Build and Deploy React Apps in Less than 5 minutes</a> <br />
-//                   <a href="https://medium.com/mobile-web-dev/how-to-build-and-publish-a-chrome-extension-in-10-minutes-browser-extension-explained-6caa17df46f">How to Build and Publish a Chrome Extension in 10 minutes</a>
-                
-//                 </div>
+                How to apply, selection process, eligibility criteria, benefits & everything else.</p>
+                <div className="blog-cat">
+                  <a href="https://medium.com/digital-diplomacy/how-and-why-to-be-a-microsoft-learn-student-ambassador-everything-you-need-to-know-15c9ae4704d5">My Experience & Program Details</a> <br />
+                               
+                </div>
               </article>
               <article className="col-block">
                 <div className="blog-date">
