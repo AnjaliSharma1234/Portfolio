@@ -19,8 +19,6 @@ class App extends Component {
         <About />
         {/* <Experience /> */}
         <Blog />
-        
-        <Contact />
         <Footer />
       </div>
     );
