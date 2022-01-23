@@ -62,7 +62,7 @@ export default class Blog extends Component {
                 <div className="blog-date">
                   <a href="blog-single.html">Mar 31, 2020</a>
                 </div>  
-                <h2 className="h01"><a href="https://medium.com/@anjalisharmaaa/storytelher-record08-beyond-self-doubt-and-peer-pressure-b669e85c028b">StorytelHer</a></h2>
+                <h2 className="h01"><a href="https://medium.com/@anjalisharmaaa/storytelher-record08-beyond-self-doubt-and-peer-pressure-b669e85c028b">StorytelHer - A women's day initiative</a></h2>
                 <p>
                 StorytelHer is my personal initiative under Women's History Month 2020 for highlighting the key learning takeaways of leading women in tech by publishing their interviews via stories.</p>
                 <div className="blog-cat">
