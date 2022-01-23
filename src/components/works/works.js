@@ -23,10 +23,10 @@ export default class Works extends Component {
                                     </div>
                                     <div className="item-folio__text">
                                         <h3 className="item-folio__title">
-                                            Youtube Playlist
+                                            Storytelling - Product, Placements & Life
                   </h3>
                                         <p className="item-folio__cat">
-                                            Talk shows & webinars
+                                            Youtube Playlist - talks & Webinar
                   </p>
                                     </div>
                                     <a href="https://www.behance.net/" className="item-folio__project-link" title="Project link">
