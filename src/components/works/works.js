@@ -6,13 +6,38 @@ export default class Works extends Component {
                 <section id="works" className="s-works target-section">
                     <div className="row narrow section-intro has-bottom-sep">
                         <div className="col-full">
-                            <h3>Highlights</h3>
+                            <h3>Storytelling</h3>
                             <h1>My Recent Activities.</h1>
                             <p className="lead"></p>
                         </div>
                     </div>
                     <div className="row masonry-wrap">
                         <div className="masonry">
+            <div className="masonry__brick">
+                                <div className="item-folio">
+                                    <div className="item-folio__thumb">
+                                        <a href="https://youtube.com/playlist?list=PLNAUz4fEiiwKTMmbRDRDQWoiN-x9CeDQ2" className="thumb-link" title = "Storytelling - Product, Placements & Life" data-size="1050x700">
+                                            <img src="images/portfolio/liberty.jpg" href="https://youtube.com/playlist?list=PLNAUz4fEiiwKTMmbRDRDQWoiN-x9CeDQ2" alt="" />
+                                            <span className="shadow-overlay" />
+                                        </a>
+                                    </div>
+                                    <div className="item-folio__text">
+                                        <h3 className="item-folio__title">
+                                            Youtube Playlist
+                  </h3>
+                                        <p className="item-folio__cat">
+                                            Talk shows & webinars
+                  </p>
+                                    </div>
+                                    <a href="https://www.behance.net/" className="item-folio__project-link" title="Project link">
+                                        <i className="im im-link" />
+                                    </a>
+                                    <span className="item-folio__caption">
+                                        <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
+                                    </span>
+                                </div> {/* end item-folio */}
+                            </div> {/* end masonry__brick */}
+
                             <div className="masonry__brick">
                                 <div className="item-folio">
                                     <div className="item-folio__thumb">
@@ -157,31 +182,7 @@ export default class Works extends Component {
                                     </span>
                                 </div> {/* end item-folio */}
                             </div> {/* end masonry__brick */}
-                            <div className="masonry__brick">
-                                <div className="item-folio">
-                                    <div className="item-folio__thumb">
-                                        <a href="https://www.instagram.com/thefirst24hours/" className="thumb-link" title = "The First 24 Hours" data-size="1050x700">
-                                            <img src="images/portfolio/liberty.jpg" href="https://www.instagram.com/thefirst24hours/" alt="" />
-                                            <span className="shadow-overlay" />
-                                        </a>
-                                    </div>
-                                    <div className="item-folio__text">
-                                        <h3 className="item-folio__title">
-                                            The First 24 Hours
-                  </h3>
-                                        <p className="item-folio__cat">
-                                            Personal Blog
-                  </p>
-                                    </div>
-                                    <a href="https://www.behance.net/" className="item-folio__project-link" title="Project link">
-                                        <i className="im im-link" />
-                                    </a>
-                                    <span className="item-folio__caption">
-                                        <p>Vero molestiae sed aut natus excepturi. Et tempora numquam. Temporibus iusto quo.Unde dolorem corrupti neque nisi.</p>
-                                    </span>
-                                </div> {/* end item-folio */}
-                            </div> {/* end masonry__brick */}
-
+                            
                             <div className="masonry__brick">
                                 <div className="item-folio">
                                     <div className="item-folio__thumb">
