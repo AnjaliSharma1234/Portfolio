@@ -7,20 +7,9 @@ export default class About extends Component {
           <div className="row narrow section-intro has-bottom-sep">
             <div className="col-full text-center">
               <h3>WORK EXPERIENCE</h3>
-//               <h4>
-//                 B.Tech. from VIT Vellore (2017 - 2021) {" "}
-//               </h4>
-//               <p>
-//                 {" "}
-//                 CGPA: 9.22/10 | University Special Achiever Award Holder 2020 | Academic Merit Award for IV University Rank |
-//                 Represented India at Formula Student Germany 2019 {" "}
-//               </p>
             </div>
           </div>
           <div className="row about-content about-content--timeline">
-//             <div className="col-full text-center">
-//               <h3>WORK EXPERIENCE</h3>
-//             </div>
             <div className="col-six tab-full left">
               <div className="timeline">
                 <div className="timeline__block">
